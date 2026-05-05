@@ -82,8 +82,6 @@ Ran 12 analytical queries covering:
 
 ## 📊 Dashboard Preview
 
-> 📁 File: `Customer_Behaviour_Analysis.pbix`
-
 **Dashboard includes:**
 - 💰 Revenue by Gender & Age Group
 - 📦 Top Products by Rating & Sales
