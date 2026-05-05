@@ -1,6 +1,8 @@
 # 🛍️ Customer Shopping Behaviour Analysis
 
 <img width="1339" height="729" alt="image" src="https://github.com/user-attachments/assets/bdfa066e-1af5-49b4-be4a-50003c1472c3" />
+<img width="1052" height="580" alt="image" src="https://github.com/user-attachments/assets/d7e71f7d-5227-4bca-bcac-74715aca9b53" />
+
 
 
 ## 📌 Overview
@@ -88,7 +90,9 @@ Ran 12 analytical queries covering:
 - 🔁 Subscription vs Non-Subscription Spend
 - 🚚 Shipping Type Analysis
 - 👥 Customer Segmentation (New / Returning / Loyal)
-
+- 📊 Top 10 Items Purchased (Bar Chart)
+- 🗺️ Top 10 States by Orders (Map Visual)
+- 📅 Season vs Revenue (Bar Chart)
 ---
 
 ## 📈 Key Results & Insights
