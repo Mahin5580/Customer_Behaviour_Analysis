@@ -1,7 +1,7 @@
 # 🛍️ Customer Shopping Behaviour Analysis
 
 <img width="1339" height="729" alt="image" src="https://github.com/user-attachments/assets/bdfa066e-1af5-49b4-be4a-50003c1472c3" />
-
+<br>
 <img width="1052" height="580" alt="image" src="https://github.com/user-attachments/assets/d7e71f7d-5227-4bca-bcac-74715aca9b53" />
 
 
